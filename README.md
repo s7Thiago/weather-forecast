@@ -11,11 +11,15 @@ Created from templates made available by Stagehand under a BSD-style
 <table>
 <tr>
 <img src="https://github.com/s7Thiago/weather-forecast/blob/master/assets/image01.png?raw=true" alt="image 1">
-
+<br><br>
+<br><br>
+  
 <img src="https://github.com/s7Thiago/weather-forecast/blob/master/assets/image02.png?raw=true" alt="image 1">
-<tr>
+<br><br>
+<br><br>
 
+</tr>
 <tr>
 <img src="https://github.com/s7Thiago/weather-forecast/blob/master/assets/image03.png?raw=true" alt="image 1">
-<tr>
+</tr>
 </table>
