@@ -7,8 +7,15 @@ Created from templates made available by Stagehand under a BSD-style
 
 <h1>Screenshots</h1>
 
+
+<table>
+<tr>
 <img src="https://github.com/s7Thiago/weather-forecast/blob/master/assets/image01.png?raw=true" alt="image 1">
 
 <img src="https://github.com/s7Thiago/weather-forecast/blob/master/assets/image02.png?raw=true" alt="image 1">
+<tr>
 
+<tr>
 <img src="https://github.com/s7Thiago/weather-forecast/blob/master/assets/image03.png?raw=true" alt="image 1">
+<tr>
+</table>
