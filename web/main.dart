@@ -4,15 +4,15 @@ import 'package:dialog/dialog.dart';
 import 'package:http/http.dart' as http;
 
 void main() {
-  var cities = [];
-  cities.add('Nova Friburgo');
-  cities.add('Planaltina');
-  cities.add('Londres');
-  cities.add('Iguatama');
-  cities.add('São Luís');
-  cities.add('Sorocaba');
+  // var cities = [];
+  // cities.add('Nova Friburgo');
+  // cities.add('Planaltina');
+  // cities.add('Londres');
+  // cities.add('Iguatama');
+  // cities.add('São Luís');
+  // cities.add('Sorocaba');
 
-  loadData(cities);
+  // loadData(cities);
 
   querySelector('#searchCity').onClick.listen((e) async {
     var myPrompt = await prompt('Qual cidade você quer buscar?');
